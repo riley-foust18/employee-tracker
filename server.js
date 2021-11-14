@@ -1,5 +1,4 @@
 const db = require("./db/connection");
-const apiRoutes = require("./routes/apiRoutes");
 const express = require("express");
 const startInquirer = require("./lib/departments");
 const PORT = process.env.PORT || 3001;
@@ -8,8 +7,6 @@ const app = express();
 // express middleware
 app.use(express.urlencoded({extended: false}));
 app.use(express.json());
-
-app.use("/api", apiRoutes);
 
 // Default response for any other request (Not found)
 app.use((req, res) => {
