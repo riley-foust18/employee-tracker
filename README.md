@@ -33,5 +33,5 @@
   N/A
 
   ## Questions
-  My GitHub: [](https://github.com/) <br>
-  Email me: 
+  My GitHub: [riley-foust18](https://github.com/riley-foust18) <br>
+  Email me: riley.foust18@gmail.com
