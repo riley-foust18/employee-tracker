@@ -16,11 +16,11 @@
 
   ## Installation
 
-  `node index.js`
+  Npm packages inquirer, console.table, and mysql2 are required
 
   ## Usage 
 
-  View, add, and edit employees and their information.
+  To use run: `node index.js`
   Walkthrough video [here](https://watch.screencastify.com/v/KMvHVavMGOEvjfUGoihp)
 
   
